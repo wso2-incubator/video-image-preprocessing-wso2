@@ -51,7 +51,7 @@ $ sudo make install
 ```
 This will install the OpenCV in to the machine.
 
-###[To train a cascade using OpenCV](https://github.com/wso2-incubator/video-image-preprocessing-wso2/tree/master/Training_Cascade#training-cascades)
+###[Train a Cascade Using OpenCV](https://github.com/wso2-incubator/video-image-preprocessing-wso2/tree/master/Training_Cascade#training-cascades)
 
 ##Tensorflow
 ###[Plane Detection Using Tensorflow](https://github.com/wso2-incubator/video-image-preprocessing-wso2/tree/master/Tensorflow_Plane_Retrain#plane-detection-using-tensorflow)
