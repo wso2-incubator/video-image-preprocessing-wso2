@@ -38,7 +38,7 @@ Then click the "Configure" button.
 
 After configuration finished configuration done notification will appear in cmake-gui. 
 
-To build OpenCV with multi thread support tick the **BUILD_TBB **box from the BUILD drop down list and from “WITH” drop down list, select **WITH_TBB**. Keep other things unchanged.
+To build OpenCV with multi thread support tick the **BUILD_TBB** box from the BUILD drop down list and from “WITH” drop down list, select **WITH_TBB**. Keep other things unchanged.
 
 Then click the generate button.
 After generating complete close the cmake-gui.
