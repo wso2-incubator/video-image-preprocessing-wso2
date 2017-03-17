@@ -4,7 +4,7 @@
 
 - OpenCV
 
-To run this project OpenCV should be installed to the machine.
+To run this project OpenCV should be installed in to the machine.
 
 To install OpenCV, please refer to this [link](https://github.com/wso2-incubator/video-image-preprocessing-wso2/blob/master/OpenCV_install.txt)
 
